@@ -5,9 +5,12 @@
    box-sizing: border-box;
    font-family: "Poppind", sans-serif;
 }
+/*Telas pequenas*/
+
 html {
    scroll-behavior: smooth;
 }
+
 .limitar-secao {
    width: 100%;
    max-width: 1024px;
